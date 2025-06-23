@@ -1,0 +1,26 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.png
+*.json
+
+# Ignore virtual environment
+myenv/
+venv/
+.env
+.env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and local configs
+*.log
+*.local
+
+# Ignore dependency directories
+node_modules/
